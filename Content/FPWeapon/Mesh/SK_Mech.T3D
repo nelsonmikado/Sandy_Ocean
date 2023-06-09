@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="SK_Mech" ExportPath=/Script/Engine.Skeleton'"/Game/ControlRig/Characters/Mech/Meshes/SK_Mech.SK_Mech"'
+   BoneTree(151)=()
+   PreviewSkeletalMesh="/Game/ControlRig/Characters/Mech/Meshes/SKM_Mech.SKM_Mech"
+End Object
